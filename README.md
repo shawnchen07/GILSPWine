@@ -1,6 +1,6 @@
 GILSPWine
 =========
-<<<<<<< HEAD
+
 
 RULES
 
@@ -8,5 +8,4 @@ RULES
 2) Don't override other peoples' work.
 3) Pull before you commit.
 
-=======
->>>>>>> 572edba66e146f81b38e54ff99931cd045469b8a
+
